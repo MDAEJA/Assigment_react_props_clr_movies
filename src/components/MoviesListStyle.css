@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.movies-list-img-div{
+   width: 6rem;
+   height: 8rem;
+   /* background-color: red; */
+}
+.main-div{
+    display: flex;
+    gap: 10px;
+}
+.movies_timinig-text{
+display: flex;
+gap: 5px;
+}
+.about-movie{
+    display: flex;
+    gap: 10px;
+}
